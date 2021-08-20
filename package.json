@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cdk-turnkey/removables#readme",
   "dependencies": {
-    "jest": "^27.0.6"
+    "jest": "^27.0.6",
+    "typescript": "^4.3.5"
   }
 }
