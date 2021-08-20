@@ -1,0 +1,19 @@
+{
+  "name": "@cdk-turnkey/removables",
+  "version": "1.0.0",
+  "description": "AWS CDK resources set to be removed when their stacks are deleted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdk-turnkey/removables.git"
+  },
+  "author": "Douglas Naphas <douglasnaphas@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cdk-turnkey/removables/issues"
+  },
+  "homepage": "https://github.com/cdk-turnkey/removables#readme"
+}
