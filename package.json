@@ -4,7 +4,8 @@
   "description": "AWS CDK resources set to be removed when their stacks are deleted.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests",
+    "itest": "jest --config=jest.itest.config.js --passWithNoTests"
   },
   "repository": {
     "type": "git",
