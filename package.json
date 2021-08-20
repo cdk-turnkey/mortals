@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests",
-    "itest": "jest --config=jest.itest.config.js --passWithNoTests"
+    "itest": "jest --config=jest.itest.config.js --passWithNoTests",
+    "build": "tsc",
+    "watch": "tsc -w"
   },
   "repository": {
     "type": "git",
