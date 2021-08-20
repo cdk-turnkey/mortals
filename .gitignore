@@ -107,3 +107,5 @@ dist
 *.js
 !jest.config.js
 *.d.ts
+
+cdk.out/

@@ -1,3 +1,3 @@
 module.exports = {
-  testRegex: ".*[.]itest[.][jt]sx?",
+  testRegex: ".*[.]itest[.][j]sx?",
 };
