@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/cdk-turnkey/removables#readme",
   "dependencies": {
+    "@aws-cdk/assert": "^1.119.0",
     "@aws-cdk/aws-s3": "^1.119.0",
     "@aws-cdk/core": "^1.119.0",
     "jest": "^27.0.6",
