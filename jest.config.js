@@ -1,3 +1,3 @@
 module.exports = {
-  testPathIgnorePatterns: ["itest"],
+  testRegex: ".*[.]test[.]jsx?",
 };
