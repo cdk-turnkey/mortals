@@ -6,7 +6,7 @@ export class MortalBucket extends s3.Bucket {
   constructor(scope: cdk.Construct, id: string, props: s3.BucketProps = {}) {
     super(scope, id, {
       removalPolicy: RemovalPolicy.DESTROY,
-      autoDeleteObjects: true,
+      // autoDeleteObjects: true,
       ...props,
     });
   }
